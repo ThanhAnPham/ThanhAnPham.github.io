@@ -11,9 +11,9 @@ title                    : "Thanh-an Pham / PhD student"
 title_separator          : "-"
 name                     : &name "Thanh-an Pham"
 description              : &description "personal description"
-url                      : https://ThanhAn.Pham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thanhan.Pham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ThanhAn.Pham/ThanhAn.Pham.github.io"
+repository               : "thanhan.Pham/thanhan.Pham.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Thanh-An+Pham"
   googlescholar    : "https://scholar.google.com/citations?user=_ZJ9X0QAAAAJ&hl=fr&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Thanh_AnPham"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ThanhAn.Pham"
+  github           : "thanhan.pham"
   google_plus      :
   keybase          :
   instagram        :
