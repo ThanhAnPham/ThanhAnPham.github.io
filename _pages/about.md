@@ -10,7 +10,7 @@ redirect_from:
 
 In construction
 
-Here:[https://scholar.google.com/citations?user=_ZJ9X0QAAAAJ&hl=fr&authuser=1](My Google scholar website) 
+Here:[My Google scholar website](https://scholar.google.com/citations?user=_ZJ9X0QAAAAJ&hl=fr&authuser=1) 
 
 Yup Yup
 ======
