@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanh-An Pham is thirsty for knowledge *wink wink*"
+title: "Thanh-An Pham"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
