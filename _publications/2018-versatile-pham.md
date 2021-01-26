@@ -2,7 +2,6 @@
 title: "Versatile reconstruction framework for diffraction tomography with intensity measurements and multiple scattering"
 collection: publications
 permalink: /publication/2018-versatile-pham
-excerpt: 'Generic reconstruction framework with intensity measurements'
 date: 2018-01-25
 venue: 'Optics Express'
 paperurl: 'https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-26-3-2749&id=381138'
