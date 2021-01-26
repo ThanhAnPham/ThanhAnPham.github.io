@@ -8,7 +8,3 @@ venue: 'Optics Express'
 paperurl: 'https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-25-18-21786&id=371123'
 citation: 'Soubies, E., Pham, T. A., & Unser, M. (2017). Efficient inversion of multiple-scattering model for optical diffraction tomography. Optics express, 25(18), 21786-21800.'
 ---
-
-{%[Download paper here](http://academicpages.github.io/files/paper1.pdf)}
-
-{%Recommended citation: Soubies, E., Pham, T. A., & Unser, M. (2017). Efficient inversion of multiple-scattering model for optical diffraction tomography. Optics express, 25(18), 21786-21800.}
