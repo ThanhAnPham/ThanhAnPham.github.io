@@ -28,9 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $"Helvetica Neue";//sans-serif;
+$header-font-family         : $"Helvetica Neue";//sans-serif;
+$caption-font-family        : $"Helvetica Neue";//serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -64,7 +64,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #B51F1F;//#52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
