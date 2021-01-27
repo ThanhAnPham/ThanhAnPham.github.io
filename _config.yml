@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Thanh-an Pham / PhD student"
 title_separator          : "-"
-name                     : &name "academicpages"
-description              : &description "personal description"
+name                     : &name "thanhanpham"
+description              : &description "It's me"
 url                      : https://thanhanpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thanhanpham/thanhanpham.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thanh-An Pham"
-  avatar           : #"profile.png"
+  avatar           : "images/profile.png"
   bio              : "Vaudois"
   location         : "Location"
   employer         :
