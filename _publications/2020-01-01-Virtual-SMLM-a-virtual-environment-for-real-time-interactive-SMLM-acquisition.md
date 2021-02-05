@@ -3,7 +3,6 @@ title: "Virtual-SMLM, a virtual environment for real-time interactive SMLM acqui
 collection: publications
 permalink: /publication/2020-01-01-Virtual-SMLM-a-virtual-environment-for-real-time-interactive-SMLM-acquisition
 date: 2020-01-01
-venue: 'https://www.biorxiv.org/content/10.1101/2020.03.05.967893v1'
+nvenue: ''[https://www.biorxiv.org/content/10.1101/2020.03.05.967893v1](https://www.biorxiv.org/content/10.1101/2020.03.05.967893v1){:target="_blank"}'
 citation: ' Juliette Griffie,  Thanh-An Pham,  Christian Sieben,  Robin Lang,  Volkan Cevher,  Seamus Holden,  Michael Unser,  Suliana Manley,  Daniel Sage, &quot;Virtual-SMLM, a virtual environment for real-time interactive SMLM acquisition.&quot; https://www.biorxiv.org/content/10.1101/2020.03.05.967893v1, 2020.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Virtual+SMLM,+a+virtual+environment+for+real+time+interactive+SMLM+acquisition){:target="_blank"} for full citation

@@ -6,4 +6,3 @@ date: 2017-01-01
 venue: 'Optics express'
 citation: ' Emmanuel Soubies,  Thanh-An Pham,  Michael Unser, &quot;Efficient inversion of multiple-scattering model for optical diffraction tomography.&quot; Optics express, 2017.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Efficient+inversion+of+multiple+scattering+model+for+optical+diffraction+tomography){:target="_blank"} for full citation

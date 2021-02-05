@@ -6,4 +6,3 @@ date: 2020-01-01
 venue: 'IEEE Transactions on Computational Imaging'
 citation: ' Thanh-an Pham,  Emmanuel Soubies,  Ahmed Ayoub,  Joowon Lim,  Demetri Psaltis,  Michael Unser, &quot;Three-dimensional optical diffraction tomography with lippmann-schwinger model.&quot; IEEE Transactions on Computational Imaging, 2020.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Three+dimensional+optical+diffraction+tomography+with+lippmann+schwinger+model){:target="_blank"} for full citation
