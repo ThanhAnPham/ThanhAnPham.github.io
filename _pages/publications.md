@@ -14,6 +14,26 @@ author_profile: true
 <a href="https://www.researchgate.net/profile/Thanh-an_Pham"><img src="https://c5.rgstatic.net/m/426351313275430/images/favicon/favicon.ico" style="width:1em;margin-right:.2em;">Research Gate</a>
 
 {% include base_path %}
-{% for post in site.publications reversed %}
+{% for post in site.publications.preprint reversed %}
+Preprints
+------
+	{% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.publications.journal reversed %}
+Journals
+------
+	{% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.publications.proceeding reversed %}
+Proceedings
+------
+	{% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.publications.abstract reversed %}
+Abstracts
+------
 	{% include archive-single.html %}
 {% endfor %}
