@@ -7,7 +7,7 @@ venue: "Ecole Polytechnique Fédérale de Lausanne (EPFL)"
 location: "Lausanne, Switzerland"
 ---
 
-Supervision of Student projects (duration: one semester)
+Supervision of student projects (duration: one semester)
 
 With Quentin
 ======
