@@ -20,24 +20,33 @@ You can also find my articles in
 	{% if post.url contains 'preprint'%}
 Preprints
 --------------
-	{% for item in post.url reversed %}
-		{% include archive-single.html %}
-	{% endfor %}
+{% for item in post.url reversed %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}
 {% if post.url contains 'journal'%}
 Journals
 --------------
-	{% for item in post.url reversed %}
-		{% include archive-single.html %}	
-	{% endfor %}
-
+{% for item in post.url reversed %}
+	{% include archive-single.html %}	
+{% endfor %}
+{% endif %}
 {% if post.url contains 'proceeding'%}
 Proceedings
 --------------
-	{% for item in post.url reversed %}
-		{% include archive-single.html %}	
-	{% endfor %}
+{% for item in post.url reversed %}
+	{% include archive-single.html %}	
 {% endfor %}
-
+{% endif %}
+{% if post.url contains 'abstract'%}
+Abstracts
+--------------
+{% for item in post.url reversed %}
+	{% include archive-single.html %}	
+{% endfor %}
+{% endif %}
+{% endfor %}
+<!--
 Journals
 --------------
 
@@ -57,4 +66,4 @@ Abstracts
 
 {% for post in site.publications.abstract reversed %}
 	{% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
