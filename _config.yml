@@ -181,13 +181,25 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  preprint:
+    output: true
+    permalink: /:collection/:path/
+  journal:
+    output: true
+    permalink: /:collection/:path/
+  proceeding:
+    output: true
+    permalink: /:collection/:path/
+  abstract:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-collections_dir: publications
+collections_dir: publications, ./
 
 # Defaults
 defaults:
