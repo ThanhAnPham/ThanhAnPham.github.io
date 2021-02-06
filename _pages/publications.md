@@ -16,32 +16,32 @@ You can also find my articles in
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-	{% if post.category == 'preprint' %}
-		{% if post.isFirst == 'True'}
+	{% if post.category contains 'preprint' %}
+		{% if post.isFirst contains 'True'}
 Preprints
 --------------
 {% endif %}
 		{% include archive-single.html %}
 {% endif %}
 
-{% if post.category == 'journal' %}
-	{% if post.isFirst == 'True'}
+{% if post.category contains 'journal' %}
+	{% if post.isFirst contains 'True'}
 Journals
 --------------
 {% endif %}
 {% include archive-single.html %}
 {% endif %}
 
-{% if post.category == 'proceeding' %}
-	{% if post.isFirst == 'True'}
+{% if post.category contains 'proceeding' %}
+	{% if post.isFirst contains 'True'}
 Proceedings
 --------------
 {% endif %}
 {% include archive-single.html %}
 {% endif %}
 
-{% if post.category == 'abstract' %}
-	{% if post.isFirst == 'True'}
+{% if post.category contains 'abstract' %}
+	{% if post.isFirst contains 'True'}
 Abstracts
 --------------
 {% endif %}
