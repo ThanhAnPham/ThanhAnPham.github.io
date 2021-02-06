@@ -15,9 +15,7 @@ You can also find my articles in
 
 {% include base_path %}
 
-<!--
 {% for post in site.publications reversed %}
-post.url
 	{% if post.url contains 'preprint'%}
 Preprints
 --------------
@@ -50,12 +48,13 @@ Abstracts
 {% endfor %}
 {% endif %}
 {% endfor %}
--->
+
+<!--
 
 Journals
 --------------
 
-{% for post in site.journal reversed %}
+{% for post in site.publication reversed %}
 	{% include archive-single.html %}
 {% endfor %}
 
@@ -72,3 +71,4 @@ Abstracts
 {% for post in site.abstract reversed %}
 	{% include archive-single.html %}
 {% endfor %}
+-->
