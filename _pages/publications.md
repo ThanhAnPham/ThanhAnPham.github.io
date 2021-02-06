@@ -17,7 +17,7 @@ You can also find my articles in
 
 {% for post in site.publications reversed %}
 	{% if post.category contains 'preprint' %}
-		{% if post.isFirst contains 'True'}
+		{% if post.isFirst contains 'True' %}
 Preprints
 --------------
 {% endif %}
@@ -25,7 +25,7 @@ Preprints
 {% endif %}
 
 {% if post.category contains 'journal' %}
-	{% if post.isFirst contains 'True'}
+	{% if post.isFirst contains 'True' %}
 Journals
 --------------
 {% endif %}
@@ -33,7 +33,7 @@ Journals
 {% endif %}
 
 {% if post.category contains 'proceeding' %}
-	{% if post.isFirst contains 'True'}
+	{% if post.isFirst contains 'True' %}
 Proceedings
 --------------
 {% endif %}
@@ -41,7 +41,7 @@ Proceedings
 {% endif %}
 
 {% if post.category contains 'abstract' %}
-	{% if post.isFirst contains 'True'}
+	{% if post.isFirst contains 'True' %}
 Abstracts
 --------------
 {% endif %}
