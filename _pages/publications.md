@@ -17,6 +17,7 @@ You can also find my articles in
 
 
 {% for post in site.publications reversed %}
+post.url
 	{% if post.url contains 'preprint'%}
 Preprints
 --------------
@@ -25,6 +26,7 @@ Preprints
 {% endfor %}
 {% endif %}
 {% if post.url contains 'journal'%}
+
 Journals
 --------------
 {% for item in post.url reversed %}
@@ -32,12 +34,14 @@ Journals
 {% endfor %}
 {% endif %}
 {% if post.url contains 'proceeding'%}
+
 Proceedings
 --------------
 {% for item in post.url reversed %}
 	{% include archive-single.html %}	
 {% endfor %}
 {% endif %}
+
 {% if post.url contains 'abstract'%}
 Abstracts
 --------------
