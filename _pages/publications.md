@@ -16,11 +16,26 @@ You can also find my articles in
 {% include base_path %}
 
 
+{% for post in site.publications reversed %}
+	{% if post.url contains 'preprint'%}
 Preprints
 --------------
+	{% for item in post.url reversed %}
+		{% include archive-single.html %}
+	{% endfor %}
+{% if post.url contains 'journal'%}
+Journals
+--------------
+	{% for item in post.url reversed %}
+		{% include archive-single.html %}	
+	{% endfor %}
 
-{% for post in site.publications.preprint reversed %}
-	{% include archive-single.html %}
+{% if post.url contains 'proceeding'%}
+Proceedings
+--------------
+	{% for item in post.url reversed %}
+		{% include archive-single.html %}	
+	{% endfor %}
 {% endfor %}
 
 Journals
