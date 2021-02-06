@@ -14,8 +14,7 @@ You can also find my articles in
 <a href="https://www.researchgate.net/profile/Thanh-an_Pham"><img src="https://c5.rgstatic.net/m/426351313275430/images/favicon/favicon.ico" style="width:1em;margin-right:.2em;">Research Gate</a>
 
 {% include base_path %}
-
-
+<!--
 {% for post in site.publications reversed %}
 post.url
 	{% if post.url contains 'preprint'%}
@@ -50,7 +49,7 @@ Abstracts
 {% endfor %}
 {% endif %}
 {% endfor %}
-<!--
+-->
 Journals
 --------------
 
@@ -70,4 +69,4 @@ Abstracts
 
 {% for post in site.publications.abstract reversed %}
 	{% include archive-single.html %}
-{% endfor %}-->
+{% endfor %}
