@@ -16,37 +16,38 @@ You can also find my articles in
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-	{% if post.url contains 'preprint'%}
+	{% if post.category == 'preprint' %}
+		{% if post.isFirst == 'True'}
 Preprints
 --------------
-{% for item in post.url reversed %}
-{% include archive-single.html %}
-{% endfor %}
 {% endif %}
-{% if post.url contains 'journal'%}
+		{% include archive-single.html %}
+{% endif %}
 
+{% if post.category == 'journal' %}
+	{% if post.isFirst == 'True'}
 Journals
 --------------
-{% for item in post.url reversed %}
-	{% include archive-single.html %}	
-{% endfor %}
 {% endif %}
-{% if post.url contains 'proceeding'%}
+{% include archive-single.html %}
+{% endif %}
 
+{% if post.category == 'proceeding' %}
+	{% if post.isFirst == 'True'}
 Proceedings
 --------------
-{% for item in post.url reversed %}
-	{% include archive-single.html %}	
-{% endfor %}
+{% endif %}
+{% include archive-single.html %}
 {% endif %}
 
-{% if post.url contains 'abstract'%}
+{% if post.category == 'abstract' %}
+	{% if post.isFirst == 'True'}
 Abstracts
 --------------
-{% for item in post.url reversed %}
-	{% include archive-single.html %}	
-{% endfor %}
 {% endif %}
+{% include archive-single.html %}
+{% endif %}
+
 {% endfor %}
 
 <!--
