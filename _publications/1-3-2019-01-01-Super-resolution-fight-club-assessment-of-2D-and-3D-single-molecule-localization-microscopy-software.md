@@ -3,7 +3,6 @@ title: "Super-resolution fight club: assessment of 2D and 3D single-molecule loc
 collection: publications
 permalink: /publication/2019-01-01-Super-resolution-fight-club-assessment-of-2D-and-3D-single-molecule-localization-microscopy-software
 category: 'journal'
-isFirst: 'False'
 date: 2019-01-01
 venue: 'Nature Methods'
 paperurl: 'https://doi.org/10.1038/s41592-019-0364-4'
