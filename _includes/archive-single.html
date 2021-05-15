@@ -40,6 +40,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
+           <h2 class="archive__item-title" itemprop="headline">
+           {{ title }}
+         </h2>
           <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% elsif post.collection == 'publications' %}
          <!-- <p><i>{{ post.venue }}</i>, {{ post.date | default: "1901-01-01" | date: "%Y" }} </p>-->

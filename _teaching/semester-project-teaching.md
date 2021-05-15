@@ -8,5 +8,4 @@ location: "Lausanne, Switzerland"
 ---
 
 Supervision of student projects (duration: one semester --- 14 weeks).
-
 Please see my CV for more details.
