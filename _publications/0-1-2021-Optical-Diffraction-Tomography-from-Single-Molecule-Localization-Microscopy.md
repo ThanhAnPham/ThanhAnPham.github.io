@@ -7,6 +7,6 @@ excerpt: 'Under review.'
 date: 2021
 venue: 'submitted'
 url: 'Under review.'
-citation: ' Pham T.-a.,  Emmanuel Soubies,  Ferréol Soulez,  Michael Unser, &quot;Optical Diffraction Tomography from Single-Molecule Localization Microscopy.&quot; <i>Under review.</i>, 01 01, 2021.'
+citation: ' Pham T.-a.,  Emmanuel Soubies,  Ferréol Soulez,  Michael Unser, &quot;Optical Diffraction Tomography from Single-Molecule Localization Microscopy.&quot; <i>Under review.</i> 2021.'
 ---
 Under review.
