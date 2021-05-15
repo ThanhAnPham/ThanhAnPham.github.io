@@ -8,4 +8,3 @@ date: 2021-01
 venue: 'Proceedings of the Eighteenth IEEE International Symposium on Biomedical Imaging (ISBI'21)'
 citation: ' Pham T.-a.,  E. Soubies,  F. Soulez,  M. Unser, &quot;Diffraction Tomography from Single-Molecule Localization Microscopy: Numerical Feasibility.&quot; <i>Proceedings of the Eighteenth IEEE International Symposium on Biomedical Imaging (ISBI'21)</i>, 854--857, April 2021. <b>Best student paper award</b>'
 ---
-Best student paper award
