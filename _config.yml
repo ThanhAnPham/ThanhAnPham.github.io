@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh-an Pham / PhD student"
+title                    : "Home" # "Thanh-an Pham / PhD student"
 title_separator          : "-"
 name                     : &name "thanhanpham"
-description              : &description "It's me"
+description              : &description "PhD student"
 url                      : https://thanhanpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thanhanpham/thanhanpham.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thanh-An Pham"
   avatar           : "profile.png"
-  bio              : "Vaudois"
+  bio              : "email: thanh-an.pham@epfl.ch"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Thanh-An+Pham"
