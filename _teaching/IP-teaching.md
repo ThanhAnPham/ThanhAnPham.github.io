@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience for Image Processing courses"
+title: "Teaching experience for graduate courses Image Processing I & II"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/IP-teaching
