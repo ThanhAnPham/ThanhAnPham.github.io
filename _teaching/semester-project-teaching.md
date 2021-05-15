@@ -7,16 +7,6 @@ venue: "Ecole Polytechnique Fédérale de Lausanne (EPFL)"
 location: "Lausanne, Switzerland"
 ---
 
-Supervision of student projects (duration: one semester)
+Supervision of student projects (duration: one semester --- 14 weeks).
 
-With Quentin
-======
-
-With Quentin again
-======
-
-With Pakshal twice
-======
-
-Alone twice
-======
+Please see my CV for more details.
