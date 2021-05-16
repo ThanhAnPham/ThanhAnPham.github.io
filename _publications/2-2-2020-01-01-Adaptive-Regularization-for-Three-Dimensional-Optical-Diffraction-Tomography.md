@@ -6,5 +6,5 @@ category: 'proceeding'
 date: 2020-01-01
 venue: 'Proceedings of the Seventeenth IEEE International Symposium on Biomedical Imaging (ISBI&rsquo;20)'
 paperurl: 'https://doi.org/10.1109/isbi45749.2020.9098523'
-citation: ' Pham T.-a.,  E. Soubies,  A. Ayoub,  D. Psaltis,  M. Unser, &quot;Adaptive Regularization for Three-Dimensional Optical Diffraction Tomography.&quot; <i>Proceedings of the Seventeenth IEEE International Symposium on Biomedical Imaging (ISBI&amp;rsquo;20)</i>, 182--186, April 5-7, 2020. <b>nominated for best paper award</b>'
+citation: ' T.-a. Pham,  E. Soubies,  A. Ayoub,  D. Psaltis,  M. Unser, "Adaptive Regularization for Three-Dimensional Optical Diffraction Tomography." <i>Proceedings of the Seventeenth IEEE International Symposium on Biomedical Imaging (ISBI&rsquo;20)</i>, 182--186, April 5-7, 2020. <b>nominated for best paper award</b>'
 ---
