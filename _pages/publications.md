@@ -15,8 +15,6 @@ You can also find my articles in
 
 {% include base_path %}
 
-{: reversed="reversed"}
-
 Preprints
 --------------
 {% for post in site.publications %}
