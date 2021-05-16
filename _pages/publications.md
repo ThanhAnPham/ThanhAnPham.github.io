@@ -17,7 +17,7 @@ You can also find my articles in
 
 Preprints
 --------------
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
 	{% if post.category contains 'preprint' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -25,7 +25,7 @@ Preprints
 
 Journals
 --------------
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
 	{% if post.category contains 'journal' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -33,7 +33,7 @@ Journals
 
 Proceedings
 --------------
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
 	{% if post.category contains 'proceeding' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -41,7 +41,7 @@ Proceedings
 
 Abstracts
 --------------
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
 	{% if post.category contains 'abstract' %}
 		{% include archive-single.html %}
 	{% endif %}
