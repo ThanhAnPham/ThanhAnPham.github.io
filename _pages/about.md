@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+
+
+PhD student in the [Biomedical Imaging Group (BIG)](bigwww.epfl.ch), EPFL.
+Supervised by Dr. Emmanuel Soubies and Prof. Michael Unser.
+
+
+
+Selected projects
+======
+
+
+
 I work in the field of computational imaging, with a special focus on biomedical imaging.
 My current researches concern optical diffraction tomography and related topics.
 In particular, I reconstruct three-dimensional volume of refractive indices using a variational framework.
