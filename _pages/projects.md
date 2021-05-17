@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Under construction
+Coming soon.
 
 {% include base_path %}
 {% for post in site.projects reversed %}
