@@ -16,21 +16,21 @@ Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.
 I work in the field of computational imaging, with a special focus on biomedical imaging.
 
 
-## Research Interests
+# Research Interests
 
 ### **Optical diffraction tomography**
 Reconstruction of three-dimensional volume of refractive indices using a variational framework.
 My approach relies on accurate physical models of light propagation and efficient algorithms to solve the reconstruction problem.
 
 ### **Phase unwrapping**
-Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not. Deep learning is here to save the game. I explore phase unwrapping with untrained and unsupervised deep learning.
+Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not (for some images). Deep learning is here to save the game. I explore phase unwrapping with untrained and unsupervised deep learning.\\
 *Collaboration with Fangshu Yang*
 
 ### **Single-molecule localization microscopy**
 Anything related to SMLM with a certain emphasize on SMLM metrics.
 
 ### **Image analysis of organoids**
-I develop some classical image analysis tools for organoids images.
+I develop some classical image analysis tools for organoids images.\\
 *Collaboration with Dr. Nathalie Brandenberg*
 
 <!--Here:[My Google scholar website](https://scholar.google.com/citations?user=_ZJ9X0QAAAAJ&hl=fr&authuser=1)
