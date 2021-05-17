@@ -16,12 +16,14 @@ Supervised by Dr. Emmanuel Soubies and Prof. Michael Unser.
 I work in the field of computational imaging, with a special focus on biomedical imaging.
 
 
-Current projects
+## Current projects
 ------
 
 * Optical diffraction tomography: 
 Reconstruction of three-dimensional volume of refractive indices using a variational framework.
 My approach relies on accurate physical models of light propagation and efficient algorithms to solve the reconstruction problem.
+* Phase unwrapping:
+Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not. Deep learning is here to save the game.
 * Image analysis of organoids:
 
 
