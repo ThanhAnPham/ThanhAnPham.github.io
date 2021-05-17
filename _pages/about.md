@@ -16,9 +16,9 @@ Supervised by Dr. Emmanuel Soubies and Prof. Michael Unser.
 
 
 Selected projects
-======
+------
 
-
+* Optical diffraction tomography: 
 
 I work in the field of computational imaging, with a special focus on biomedical imaging.
 My current researches concern optical diffraction tomography and related topics.
