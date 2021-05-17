@@ -10,9 +10,8 @@ redirect_from:
 
 
 
-PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL) since 2017.\\
+PhD student, [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL).\\
 Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.\\
-*Nonlinear inverse problem in optics (Working title)*
 
 I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
 
