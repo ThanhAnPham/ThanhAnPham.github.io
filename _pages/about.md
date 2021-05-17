@@ -12,7 +12,7 @@ redirect_from:
 
 PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL) since 2017.\\
 Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.\\
-Working title: Nonlinear inverse problem in optics.
+*Nonlinear inverse problem in optics (Working title)*
 
 I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
 
