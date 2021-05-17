@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I received the B.Sc. and M.Sc. degrees in bioengineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 2016. I am currently a 4th year PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. Emmanuel Soubies and Prof. Michael Unser.
+I received the B.Sc. and M.Sc. degrees in bioengineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 2016. I am currently a 4th year PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at EPFL under the supervision of Dr. Emmanuel Soubies and Prof. Michael Unser.
 
 I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
 
@@ -23,7 +23,7 @@ My approach relies on accurate and nonlinear physical models of light propagatio
 *Collaboration with Prof. Demetri Psaltis*
 
 ### Phase unwrapping with deep learning
-Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not (for some images). I explore methods with untrained and unsupervised deep learning.\\
+Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not (for some images). I am interested in methods with untrained and unsupervised deep learning.\\
 *Collaboration with Fangshu Yang*
 
 ### Software for single-molecule localization microscopy
@@ -31,7 +31,7 @@ Anything related to 2D and 3D SMLM software with an emphasize on metrics and ben
 *Collaboration with Dr. Daniel Sage and Prof. Seamus Holden*
 
 ### Image analysis of organoids
-I develop some classical image analysis tools for organoids images.\\
+I am developing some classical image analysis tools for images of organoids.\\
 *Collaboration with Dr. Nathalie Brandenberg*
 
 <!--
