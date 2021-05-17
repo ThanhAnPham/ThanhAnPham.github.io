@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-PhD student, [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL).\\
+4th year PhD student, [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL).\\
 Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.\\
 
 I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
