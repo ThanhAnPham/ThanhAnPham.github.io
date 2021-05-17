@@ -10,24 +10,28 @@ redirect_from:
 
 
 
-PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL).\\
+PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL) since 2017.\\
 Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.
+Working title: Nonlinear inverse problem in optics.
 
-I work in the field of computational imaging, with a special focus on biomedical imaging.
+I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
 
 
 # Research Interests
 
 ### Optical diffraction tomography
-Reconstruction of three-dimensional volume of refractive indices using a variational framework.
-My approach relies on accurate physical models of light propagation and efficient algorithms to solve the reconstruction problem.
+Reconstruction of 3D volume of refractive indices using a variational framework.
+My approach relies on accurate and nonlinear physical models of light propagation and efficient algorithms to solve the reconstruction problem.
+\\
+*Collaboration with Prof. Demetri Psaltis*
 
-### Phase unwrapping
+### Phase unwrapping with deep learning
 Recovering the true phase from its wrapped version (modulo 2$\pi$) sounds easy...but it's not (for some images). I explore methods with untrained and unsupervised deep learning.\\
 *Collaboration with Fangshu Yang*
 
-### Single-molecule localization microscopy
-Anything related to SMLM with a certain emphasize on metrics.
+### Software for single-molecule localization microscopy
+Anything related to 2D and 3D SMLM software with an emphasize on metrics and benchmarking.\\
+*Collaboration with Dr. Daniel Sage and Prof. Seamus Holden*
 
 ### Image analysis of organoids
 I develop some classical image analysis tools for organoids images.\\

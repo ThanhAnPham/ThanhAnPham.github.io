@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home" # "Thanh-an Pham / PhD student"
 title_separator          : "-"
-name                     : &name "thanhanpham"
+name                     : &name "thanh-an pham"
 description              : &description "PhD student"
 url                      : https://thanhanpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thanh-An Pham"
   avatar           : "profile.png"
-  bio              : "email: thanh-an.pham@epfl.ch"
+  bio              : "<thanh-an.pham@epfl.ch>"
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Thanh-An+Pham"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ThanhAn_Pham"
+  twitter          : #"ThanhAn_Pham"
   vine             :
   weibo            :
   xing             :
