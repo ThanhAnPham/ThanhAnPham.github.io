@@ -17,7 +17,6 @@ I work in the field of computational imaging, with a special focus on biomedical
 
 
 ## Research Interests
-------
 
 * **Optical diffraction tomography**: 
 Reconstruction of three-dimensional volume of refractive indices using a variational framework.
