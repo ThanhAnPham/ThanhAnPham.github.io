@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ultra Short Bio"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-
-4th year PhD student, [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL).\\
-Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.\\
+I received the B.Sc. and M.Sc. degrees in bioengineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 2016. I am currently a 4th year PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. Emmanuel Soubies and Prof. Michael Unser.
 
 I work in the field of computational imaging, with a special focus on biomedical imaging and optics.
 
