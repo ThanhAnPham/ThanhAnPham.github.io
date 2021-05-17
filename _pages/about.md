@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanh-An Pham"
+title: "Ultra Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-PhD student in the [Biomedical Imaging Group (BIG)](https://bigwww.epfl.ch), EPFL.
-Supervised by Dr. Emmanuel Soubies and Prof. Michael Unser.
+PhD student in the [Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch) at Ecole Polytechnique Fédérale de Lausanne (EPFL ![Alt](/epfl.png "EPFL")).\\
+Supervision by Dr. Emmanuel Soubies and Prof. Michael Unser.
 
 I work in the field of computational imaging, with a special focus on biomedical imaging.
 
 
-## Current projects
+## Research Interests
 ------
 
 * Optical diffraction tomography: 
