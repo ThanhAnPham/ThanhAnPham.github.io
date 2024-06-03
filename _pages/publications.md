@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles in
+You can also find a more up-to-date list of my publications in
 <a href="https://scholar.google.com/citations?user=_ZJ9X0QAAAAJ&hl=fr&authuser=1"> <img src="https://scholar.google.se/favicon-png.ico" style="width:1em;margin-right:.2em;" alt="Google Scholar icon">Google Scholar</a>, 
 <a itemprop="sameAs" content="https://orcid.org/0000-0001-6231-2569
 " href="https://orcid.org/0000-0001-6231-2569
