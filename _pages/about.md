@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I received the B.Sc. and M.Sc. degrees in bioengineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 2016. I obtained my PhD in Electrical Engineering at EPFL under the supervision of Dr. Emmanuel Soubies and Prof. Michael Unser ([Biomedical Imaging Group (BIG)](http://bigwww.epfl.ch)).
-During 2 years, I worked at the Massachussets Institute of Technology as a postdoctoral researcher in the Optics group (Prof. George Barbastathis). I am currently an R\&D engineer in computational imaging at the Center of Imaging at EPFL.
+I received the B.Sc. and M.Sc. degrees in bioengineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 2016. I obtained my PhD in Electrical Engineering at EPFL under the supervision of Dr. Emmanuel Soubies and Prof. Michael Unser ([Biomedical Imaging Group](http://bigwww.epfl.ch)). During 2 years, I worked at the Massachussets Institute of Technology as a postdoctoral researcher in the [Optics group](https://optics.mit.edu/welcome-3d-optical-systems-group-mit) (Prof. George Barbastathis).\\
+I am currently an R&D engineer in computational imaging at the Center of Imaging at EPFL.
 
 I work in the field of computational imaging, with a special focus on biomedical imaging, deep learning, and optics.
 
